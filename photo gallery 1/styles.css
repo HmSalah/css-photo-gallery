@@ -1,0 +1,19 @@
+.gallery {
+  display: grid;
+  grid-template-columns: 100fr 100fr 100fr;
+  grid-template-rows: 100fr 100fr 100fr 100fr;
+  justify-items: center;
+  align-items: center;
+  gap: 5px;
+}
+
+.images {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.box1 {
+  grid-row: 1 / span 2;
+  grid-column: 2 / span 2;
+}
