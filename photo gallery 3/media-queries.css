@@ -48,7 +48,7 @@
   }
 }
 
-@media screen and (min-width: 1000px) and (max-width: 2100px) {
+@media screen and (min-width: 1000px) and (max-width: 1800px) {
   .container {
     display: grid;
     grid-template: repeat(4, 100px 100px) / repeat(2, 100px 100px);
@@ -101,10 +101,10 @@
   }
 }
 
-@media screen and (min-width: 2101px) {
+@media screen and (min-width: 1800px) {
   .container {
     display: grid;
-    grid-template: repeat(5, 100px 100px) / repeat(10, 100px 100px);
+    grid-template: repeat(5, 80px 80px) / repeat(10, 80px 80px);
     height: 100vh;
     gap: 10px 10px;
     justify-content: center;
