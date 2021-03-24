@@ -1,8 +1,6 @@
 # <div align="center"> CSS Photo Gallery CSS Grid</div>
 #### [Photo Gallery 1](https://github.com/HmSalah/photo-gallery/tree/main/photo%20gallery%201)_______________________________ [Photo Gallery 2](https://github.com/HmSalah/photo-gallery/tree/main/photo%20gallery%202)  ####
-![image](https://user-images.githubusercontent.com/74623220/112024556-522fec80-8b02-11eb-968b-771d0601ef9f.png)![Uploading image.png…]()
-
-
+![image](https://user-images.githubusercontent.com/74623220/112024556-522fec80-8b02-11eb-968b-771d0601ef9f.png) ![image](https://user-images.githubusercontent.com/74623220/112351467-f008f000-8c97-11eb-8e40-f295ccb9cf52.png)
 
 
 
