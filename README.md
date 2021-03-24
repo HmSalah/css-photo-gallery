@@ -6,5 +6,6 @@
 ![image](https://user-images.githubusercontent.com/74623220/112175184-08f4a100-8bc5-11eb-8408-8a82c8edb5e3.png)
 
 #### [Photo Gallery 3](https://github.com/HmSalah/photo-gallery/tree/main/photo%20gallery%203)  ####
-![image](https://user-images.githubusercontent.com/74623220/112348631-00b86680-8c96-11eb-8379-46d30994f9e4.png)
+![image](https://user-images.githubusercontent.com/74623220/112348813-2e051480-8c96-11eb-969a-b94cee4c0455.png)
+
 
