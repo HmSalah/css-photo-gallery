@@ -7,7 +7,7 @@
 
 
 
-#### [Photo Gallery 3 (Responsive To Screen Size: Phone, Tablet, Desktop](https://github.com/HmSalah/photo-gallery/tree/main/photo%20gallery%203)  ####
+#### [Photo Gallery 3 (Responsive To Screen Size: Phone, Tablet, Desktop)](https://github.com/HmSalah/photo-gallery/tree/main/photo%20gallery%203)  ####
 ![image](https://user-images.githubusercontent.com/74623220/112348813-2e051480-8c96-11eb-969a-b94cee4c0455.png)
 
 
